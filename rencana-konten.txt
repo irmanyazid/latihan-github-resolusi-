@@ -3,10 +3,12 @@ Rencanca Konten
 - Javascript
   * ES6
   * Framework JS
-    - angular
+    - Vue
     - React
+- Struktur dasar
 - PHP
-  - laravel
+  - Laravel
 - interview 
 - vlogs
+- python
 
