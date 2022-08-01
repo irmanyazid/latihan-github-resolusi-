@@ -2,3 +2,5 @@ Latihan Github
 - konsisten untuk coding 
 - latihan slicing figma to flutter
 - gabung forum 
+- kolaborasi dengan expert
+- perbanyak explore
