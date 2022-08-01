@@ -1,6 +1,8 @@
 Rencanca Konten
 
 - Javascript
+  * ES6
+  * Framework JS
 - PHP
 - interview 
 - vlogs
