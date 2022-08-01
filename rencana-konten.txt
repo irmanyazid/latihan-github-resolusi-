@@ -3,6 +3,7 @@ Rencanca Konten
 - Javascript
   * ES6
   * Framework JS
+- Struktur dasar
 - PHP
 - interview 
 - vlogs
