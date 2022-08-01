@@ -3,4 +3,4 @@ Latihan Github
 - latihan slicing figma to flutter
 - gabung forum 
 - kolaborasi dengan expert
-- perbanyak explore
+- membuat video coding
